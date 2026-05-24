@@ -174,6 +174,7 @@ vcpkg中的kcp库由Microsoft团队成员和社区贡献者保持最新状态。
 - [KcpTransport](https://github.com/Cysharp/KcpTransport): kcp的csharp移植，实现了 Syn Cookie 握手、连接管理、不可靠通信、KeepAlive，未来还将支持加密。
 - [Kcp-CSharp](https://github.com/Molth/Kcp-CSharp): kcp的csharp移植，非托管包装器。
 - [kcp2k](https://github.com/vis2k/kcp2k/): Line-by-line translation to C#, with optional Server/Client on top.
+- [KcpSharpN](https://github.com/new1271/KcpSharpN): 新版本kcp的csharp移植，追求完全复刻C语言原始版本的行为，具备简单的协定封装与直接操作 KCP 协定的能力
 - [kcp-rs](https://github.com/en/kcp-rs): KCP的 rust移植
 - [kcp-rust](https://github.com/Matrix-Zhang/kcp)：新版本 KCP的 rust 移植
 - [tokio-kcp](https://github.com/Matrix-Zhang/tokio_kcp)：rust tokio 的 kcp 集成
